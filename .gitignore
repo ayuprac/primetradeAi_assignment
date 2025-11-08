@@ -1,0 +1,23 @@
+# ignore environment files
+.env
+primetrade.ai_assignment/.env
+frontend/.env
+
+# node modules
+node_modules/
+primetrade.ai_assignment/node_modules/
+frontend/node_modules/
+
+# build files
+dist/
+build/
+
+# log files
+logs.txt
+primetrade.ai_assignment/logs.txt
+
+
+# system files
+.DS_Store
+.vscode/
+npm-debug.log
