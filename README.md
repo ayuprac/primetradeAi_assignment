@@ -46,8 +46,7 @@ The requirement was to build:
 ✅ View own tasks (user)  
 ✅ Admin can view all tasks  
 ✅ Protected routes with `authMiddleware`  
-✅ Postman documentation included  
-✅ Log files added inside repository  
+
 
 ---
 
@@ -66,4 +65,11 @@ The requirement was to build:
 ---
 
 ## Basic Frontend
+<img width="1676" height="799" alt="1" src="https://github.com/user-attachments/assets/15e7cb97-af6d-4634-80a4-4528b7d04c1e" />
+<img width="1920" height="1080" alt="1 5" src="https://github.com/user-attachments/assets/ee0880ab-6ea7-493b-a907-003d8bb6d3ff" />
+<img width="1123" height="362" alt="2" src="https://github.com/user-attachments/assets/20527f80-2ea8-4736-b649-d928c35fcb44" />
+<img width="1920" height="969" alt="3" src="https://github.com/user-attachments/assets/664c86e3-9090-419b-9fbc-ff2208c30acc" />
+<img width="1127" height="508" alt="4" src="https://github.com/user-attachments/assets/22d8a816-8af8-41db-b654-ccafa34e8179" />
+
+
 
